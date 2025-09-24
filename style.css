@@ -52,7 +52,7 @@ nav a {
 }
 
 .post img {
-  width: 100%;
+  width: 20%;
   height: auto;
   border-radius: 5px;
 }
@@ -63,3 +63,4 @@ footer {
   background-color: #fff;
   border-top: 1px solid #ddd;
 }
+
